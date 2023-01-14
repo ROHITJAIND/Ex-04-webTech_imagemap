@@ -211,13 +211,16 @@ branches across the country.
 ```
 # Output:
 
+![MAP DISP](https://user-images.githubusercontent.com/118707073/212474643-99c25b24-427d-4032-9433-25f5d41f06ab.png)
 
 
-
-
-
-
+![CELL](https://user-images.githubusercontent.com/118707073/212474297-2e609997-cc75-4b54-a3d1-71c00d937679.png)  
+![CLINIC](https://user-images.githubusercontent.com/118707073/212474301-7525bc4e-24dd-4218-8d8b-f90e7989a245.png)  
+![NUTS](https://user-images.githubusercontent.com/118707073/212474308-59acfb85-a810-4f2e-967e-4a9fbd0cd432.png)  
+![STUDIO](https://user-images.githubusercontent.com/118707073/212474313-8960369d-7617-41b9-acdd-3eef441ce978.png)  
+![IPS](https://user-images.githubusercontent.com/118707073/212474330-ab5869fb-384d-4267-a37f-50ffe5ab01fe.png)  
 # HTML Validator:
+![validator](https://user-images.githubusercontent.com/118707073/212474529-650a53d6-91a2-4bdd-aba5-3c9ed55ba880.png)  
 # Result:
 The program for implementing image map is executed successfully.
 
